@@ -1,0 +1,1 @@
+#firstHeading{display:none}#security-info-toggle{background:transparent url(/wiki/skins/monobook/lock_icon.gif) no-repeat scroll left center;padding-left:16px}#security-info{border:1px solid #ccc;background:#eee}div#breadcrumbs{font-size:0.9em}#p-logo{display:none}
